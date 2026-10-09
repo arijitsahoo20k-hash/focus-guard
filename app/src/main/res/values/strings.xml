@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Focus Guard</string>
+    <string name="accessibility_description">Detects which app is on screen during a focus session and sends you back to the home screen if it is a blocked app. Nothing is read, stored or sent anywhere.</string>
+</resources>
